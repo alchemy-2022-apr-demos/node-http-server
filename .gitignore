@@ -1,0 +1,4 @@
+# Ignore npm generated packages.
+node_modules/**
+# Ignore potentially secret env variables. Get these from .env-template instead.
+.env
